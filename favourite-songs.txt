@@ -1,4 +1,4 @@
-James
+James - Language I: Intuition
 
 Eva
 Bohemian Rhapsody
@@ -24,3 +24,6 @@ Gordon
 'I was only nineteen'
 Shaun
 Song 2 - Blur
+
+Alex 
+Rubber Ducky

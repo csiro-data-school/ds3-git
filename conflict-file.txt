@@ -1,2 +1,6 @@
 Is it time to go home?
+
 Very soon it will be, it is Friday.
+
+No - let's do git all weekend
+
